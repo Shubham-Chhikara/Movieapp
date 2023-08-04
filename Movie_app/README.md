@@ -1,3 +1,6 @@
+# To access Live version
+Click To access deployed version click https://shubhamchiku.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
