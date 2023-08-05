@@ -1,5 +1,5 @@
 # To access Live version
-Click To access deployed version click https://shubhamchiku.netlify.app/
+To access deployed version click https://shubhamchiku.netlify.app/
 
 # Getting Started with Create React App
 
